@@ -1,1 +1,1 @@
-codes that I had to do in my lab of respective subjects
+codes that I had to do as lab activities of the respective subjects
